@@ -1,3 +1,16 @@
 /***.responsive-img{
   max-height:300px;
 }
+***/
+
+
+.galery-1 .responsive-img{
+  height: 150px;
+}
+.galery-2 .responsive-img{
+  height: 600px;
+}
+
+.galery-3 .responsive-img{
+  height: 300px;
+}
