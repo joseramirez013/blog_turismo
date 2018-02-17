@@ -15,3 +15,10 @@
 .galery-3 .responsive-img{
   height: 335px;
 }
+
+/*** Estilos para linea horizontal***/
+hr {
+  height: 2px;
+  width: 50%;
+  background-color: black;
+}
