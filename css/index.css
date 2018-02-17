@@ -3,13 +3,15 @@
 }
 ***/
 
-.galery-1 .responsive-img{
+/***.galery-1 .responsive-img{
   height: 170px;
 }
+
 .galery-2 .responsive-img{
   height: 700px;
-}
+}***/
 
+/** Ajuste de altura **/
 .galery-3 .responsive-img{
-  height: 350px;
+  height: 335px;
 }
