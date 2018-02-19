@@ -9,12 +9,13 @@
 
 .galery-2 .responsive-img{
   height: 700px;
-}***/
+}
 
-/** Ajuste de altura **/
+/** Ajuste de altura
 .galery-3 .responsive-img{
   height: 335px;
 }
+***/
 
 /*** Estilos para linea horizontal***/
 hr {
